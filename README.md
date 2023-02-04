@@ -17,7 +17,7 @@ dudo is a secure passwordless privildge escalation utilty to replace sudo
 
 ## No Bloat
 
-dudo is only 26 lines of code, sudo is like, a lot more, this is [scientifically proven](https://www.reddit.com/r/suckless) to make it more secure
+dudo is only 34 lines of code, sudo is like, a lot more, this is [scientifically proven](https://www.reddit.com/r/suckless) to make it more secure
 
 ## AI-powered execution
 
